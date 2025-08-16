@@ -4,7 +4,7 @@
 A real-time currency conversion web application that allows users to convert amounts between multiple global currencies. The application fetches live exchange rates from a reliable API and provides accurate conversion results instantly. Users can select the source and target currencies, input the amount, and get the converted value dynamically. The project emphasizes a clean UI, responsiveness, and smooth user interaction.
 
 ## Features
-- Convert between 150+ global currencies.  
+-  We should add And Convert between 150+ global currencies.  
 - Real-time exchange rate updates via an external API.  
 - User-friendly interface with dropdowns for currency selection.  
 - Error handling for invalid inputs or API failures.  
